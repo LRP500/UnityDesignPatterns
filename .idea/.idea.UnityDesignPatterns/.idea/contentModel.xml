@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DesignPatterns" t="Include">
+          <e p="FluentBuilder" t="Include">
+            <e p="Computer.cs" t="Include" />
+            <e p="ComputerBuilder.cs" t="Include" />
+            <e p="IComputerBuilder.cs" t="Include" />
+            <e p="IComputerBuilderAddGraphicCard.cs" t="Include" />
+            <e p="IComputerBuilderAddMemoryStick.cs" t="Include" />
+            <e p="IComputerBuilderSetMotherboard.cs" t="Include" />
+            <e p="IComputerBuilderSetPowerSupply.cs" t="Include" />
+            <e p="IComputerBuilderSetProcessor.cs" t="Include" />
+            <e p="Parts" t="Include">
+              <e p="ComputerPart.cs" t="Include" />
+              <e p="GraphicCard.cs" t="Include" />
+              <e p="MemoryStick.cs" t="Include" />
+              <e p="Motherboard.cs" t="Include" />
+              <e p="PowerSupply.cs" t="Include" />
+              <e p="Processor.cs" t="Include" />
+            </e>
+            <e p="TestComputerBuilder.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/Bin" t="ExcludeRecursive" />
+      <e p="UnityDesignPatterns.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_UnityDesignPatterns.-1236508914.00" t="ExcludeRecursive" />
+  </component>
+</project>
