@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Text;
 using UnityEngine;
 
-namespace DesignPatterns.FluentBuilder
+namespace DesignPatterns.Common
 {
     public class Computer
     {

@@ -1,4 +1,4 @@
-namespace DesignPatterns.FluentBuilder
+namespace DesignPatterns.Common
 {
     public class GraphicCard : ComputerPart
     {
